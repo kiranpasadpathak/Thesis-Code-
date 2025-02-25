@@ -1,0 +1,163 @@
+2025-02-13 20:43:50,418 - INFO - KYC process initiated from GUI.
+2025-02-13 20:43:50,429 - INFO - Generated OTP: 506373
+2025-02-13 20:44:12,334 - INFO - OTP verified successfully.
+2025-02-13 20:44:16,737 - INFO - MFA verified successfully.
+2025-02-13 20:44:16,737 - INFO - Simulated compliance check passed.
+2025-02-13 20:44:16,756 - INFO - Sensitive KYC data encrypted.
+2025-02-13 20:44:16,756 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-13 20:44:18,692 - ERROR - HTTP error during Banking API call: 502 Server Error: Bad Gateway for url: https://httpbin.org/post
+2025-02-13 20:44:23,346 - ERROR - Banking API call failed. KYC process terminated.
+2025-02-13 20:55:33,503 - INFO - KYC process initiated from GUI.
+2025-02-13 20:55:33,503 - INFO - Generated OTP: 729023
+2025-02-13 20:55:51,176 - INFO - OTP verified successfully.
+2025-02-13 20:55:55,123 - INFO - Sensitive KYC data encrypted.
+2025-02-13 20:55:55,123 - INFO - Encrypted KYC data: {'name': 'gAAAAABnrgt_6JBOgv0QeAZJURCQTX8g3Zqf57S_2R8W-pl6hwocBXx_Y4NyujS19ZfLm5fiJsO38mMtByZv13R_DaY8UaO1KQ==', 'dob': 'gAAAAABnrgt_gyMavAN29JkxwowBYzNVtSuSTlT2p9Djb9wB6HnoMABhXgpgpsVkpKBCEGOMll8mhPyNxWVr1goLR13MPFtNGA==', 'gender': 'gAAAAABnrgt_jh-LoEgKheV7qPq9HDOkg7Pk-TjJArwB4LehMhJo8rZWzpMkd74HMj-Zr_DMV5cFuI1t-Ps6Cjy-CRpUCYulLQ==', 'address': 'gAAAAABnrgt_SR7GlwNdhF8OAgn8F-pXc2sWyYPxDyouRwtLcXlMd4wq28e_sCLT1RFEShpGIAz4yQAZZgDOPV_9k0cpML19pA==', 'mobile': 'gAAAAABnrgt_W5UYPAwINion1J4AT8KIk9alRHhz2UYA6yZ7_rr7QOLcVXGDZok3vhiBCDLmc5iGk6y5_-o9Ua2uhnpCmiYjcw=='}
+2025-02-13 20:55:55,123 - INFO - Simulated compliance check passed.
+2025-02-13 20:55:55,123 - INFO - Block 1 added with hash: 57ae0b995e67dee45eaa0d01e3b5c5d6ab44a0fff967eda7ebda196d49fa8ecb
+2025-02-13 20:55:55,123 - INFO - KYC data verified and stored in the blockchain.
+2025-02-13 20:56:18,053 - ERROR - Failed to send phishing email: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2025-02-13 21:14:52,056 - INFO - Sensitive KYC data encrypted.
+2025-02-13 21:14:52,062 - INFO - KYC data for unique_id gAAAAABnrg_wwxPwLl0xmwoIHee-6hx0ZB6DqCbuVncvMLtot9R789tGxHsRA6pMt4cLCwtfC-4T6Gs7WwtZGLUx-vrYW8W9vg== saved successfully.
+2025-02-13 21:14:52,070 - INFO - Block 1 added with hash: 30c8ad81fa49c89ecf7a99263e96390da6038a2f1fcdc02f6c46dc5ba72e2beb
+2025-02-13 21:14:52,127 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 21:16:06,144 - INFO - KYC process initiated from GUI.
+2025-02-13 21:16:10,247 - ERROR - KYC verification failed: Incorrect Full Name.
+2025-02-13 21:16:11,411 - INFO - KYC process initiated from GUI.
+2025-02-13 21:16:15,150 - ERROR - KYC verification failed: Incorrect Full Name.
+2025-02-13 21:16:18,699 - INFO - KYC process initiated from GUI.
+2025-02-13 21:16:18,699 - INFO - Generated OTP: 479191
+2025-02-13 21:16:34,368 - INFO - OTP verified successfully.
+2025-02-13 21:16:39,507 - INFO - MFA verified successfully.
+2025-02-13 21:16:39,507 - INFO - Simulated compliance check passed.
+2025-02-13 21:16:39,507 - INFO - Sensitive KYC data encrypted.
+2025-02-13 21:16:39,515 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-13 21:16:40,893 - INFO - Real Banking API call successful with status code: 200
+2025-02-13 21:16:40,896 - INFO - Block 1 added with hash: de817c1c55665027a3bed02469ceec1d6430cef85b84461c61c78a9fb957b938
+2025-02-13 21:16:40,930 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 21:16:40,930 - INFO - Push Notification Sent: KYC verified for 216486569582
+2025-02-13 21:16:42,690 - INFO - KYC process completed successfully.
+2025-02-13 21:28:34,189 - INFO - KYC process initiated from GUI.
+2025-02-13 21:28:50,134 - INFO - KYC process initiated from GUI.
+2025-02-13 21:29:30,685 - INFO - KYC process initiated from GUI.
+2025-02-13 21:30:48,684 - INFO - KYC process initiated from GUI.
+2025-02-13 21:30:53,952 - INFO - KYC process initiated from GUI.
+2025-02-13 21:57:00,062 - INFO - KYC process initiated from GUI.
+2025-02-13 21:57:00,064 - INFO - Generated OTP: 014679
+2025-02-13 21:57:16,149 - INFO - OTP verified successfully.
+2025-02-13 21:57:20,869 - INFO - MFA verified successfully.
+2025-02-13 21:57:20,871 - INFO - Simulated compliance check passed.
+2025-02-13 21:57:20,900 - INFO - Sensitive KYC data encrypted.
+2025-02-13 21:57:20,900 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-13 21:57:24,773 - INFO - Real Banking API call successful with status code: 200
+2025-02-13 21:57:24,773 - INFO - Block 1 added with hash: 760c22d89d4884d5495c5440e4131ab0f8a5d9a893319587e1411a6ac8b58ab1
+2025-02-13 21:57:24,901 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 21:57:24,903 - INFO - Push Notification Sent: KYC verified for 415204087027
+2025-02-13 21:57:37,259 - INFO - KYC process completed successfully.
+2025-02-13 22:04:54,180 - INFO - KYC process initiated from GUI.
+2025-02-13 22:04:54,180 - INFO - Generated OTP: 548327
+2025-02-13 22:05:07,642 - INFO - OTP verified successfully.
+2025-02-13 22:05:15,322 - INFO - MFA verified successfully.
+2025-02-13 22:05:15,322 - INFO - Simulated compliance check passed.
+2025-02-13 22:05:15,327 - INFO - Sensitive KYC data encrypted.
+2025-02-13 22:05:15,327 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-13 22:05:17,695 - INFO - Real Banking API call successful with status code: 200
+2025-02-13 22:05:17,695 - INFO - Block 1 added with hash: 10a13ed1031ac8e78028f3835c3ec972aaef040bc5627af32796f8e872ac9bbf
+2025-02-13 22:05:17,790 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 22:05:17,790 - INFO - Push Notification Sent: KYC verified for 391611120316
+2025-02-13 22:05:19,280 - INFO - KYC process completed successfully.
+2025-02-13 22:14:46,730 - INFO - KYC process initiated from GUI.
+2025-02-13 22:14:46,740 - ERROR - KYC data mismatch for user 171004138352.
+2025-02-13 22:16:56,362 - INFO - KYC process initiated from GUI.
+2025-02-13 22:16:56,365 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:04,054 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:04,062 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:06,485 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:06,493 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:06,943 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:06,943 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:07,135 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:07,135 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:07,299 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:07,301 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:07,468 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:07,468 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:10,144 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:10,144 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:18:10,293 - INFO - KYC process initiated from GUI.
+2025-02-13 22:18:10,293 - ERROR - KYC data mismatch for user 463642845165.
+2025-02-13 22:31:37,594 - INFO - KYC process initiated from GUI.
+2025-02-13 22:31:37,594 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:33:05,076 - INFO - KYC process initiated from GUI.
+2025-02-13 22:33:05,078 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:33:17,301 - INFO - KYC process initiated from GUI.
+2025-02-13 22:33:17,303 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:33:18,743 - INFO - KYC process initiated from GUI.
+2025-02-13 22:33:18,746 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:33:29,229 - INFO - KYC process initiated from GUI.
+2025-02-13 22:33:29,231 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:33:30,166 - INFO - KYC process initiated from GUI.
+2025-02-13 22:33:30,168 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:33:30,412 - INFO - KYC process initiated from GUI.
+2025-02-13 22:33:30,414 - ERROR - KYC data mismatch for user 961302212762.
+2025-02-13 22:36:20,449 - INFO - Sensitive KYC data encrypted.
+2025-02-13 22:36:20,449 - INFO - Simulated compliance check passed.
+2025-02-13 22:36:20,449 - INFO - Block 1 added with hash: 75f0101a100ff475398cc1b79ead742941ef21e26c7d40b8004322f0f978ccda
+2025-02-13 22:36:20,503 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 22:36:20,519 - ERROR - Failed to send email: [Errno 11001] getaddrinfo failed
+2025-02-13 22:36:20,519 - INFO - Push Notification Sent: KYC Submission Successful for Kiran Pathak
+2025-02-13 22:43:26,024 - INFO - Sensitive KYC data encrypted.
+2025-02-13 22:43:26,024 - INFO - Simulated compliance check passed.
+2025-02-13 22:43:26,024 - INFO - Block 1 added with hash: 0c4a3c82a7120d76461796302ed7ecb70b98f11ca8b5a91a82077f42092ad067
+2025-02-13 22:43:26,078 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 22:43:27,592 - INFO - KYC data submitted successfully with unique ID: 522452054806
+2025-02-13 22:43:44,813 - INFO - Sensitive KYC data encrypted.
+2025-02-13 22:43:44,813 - INFO - Simulated compliance check passed.
+2025-02-13 22:43:44,813 - INFO - Block 2 added with hash: 4ddc5749eff1a32600b8aa719a0088f4cc86f5a02b02c3cd2ef711f47e925ad1
+2025-02-13 22:43:44,833 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 22:43:46,283 - INFO - KYC data submitted successfully with unique ID: 522452054806
+2025-02-13 22:44:31,360 - INFO - KYC process initiated from GUI.
+2025-02-13 22:44:31,360 - INFO - Generated OTP: 911325
+2025-02-13 22:44:50,223 - INFO - OTP verified successfully.
+2025-02-13 22:44:57,674 - INFO - MFA verified successfully.
+2025-02-13 22:44:57,674 - INFO - Simulated compliance check passed.
+2025-02-13 22:44:57,684 - INFO - Sensitive KYC data encrypted.
+2025-02-13 22:44:57,684 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-13 22:45:01,860 - INFO - Real Banking API call successful with status code: 200
+2025-02-13 22:45:01,860 - INFO - Block 1 added with hash: b746649b970204a5abf85ce1cc57bab0559dfa2accfee388d83dfb4727307a86
+2025-02-13 22:45:01,914 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-13 22:45:01,914 - INFO - Push Notification Sent: KYC verified for 824701500186
+2025-02-13 22:45:03,708 - INFO - KYC process completed successfully.
+2025-02-14 09:11:16,279 - INFO - KYC process initiated from GUI.
+2025-02-14 09:11:17,482 - ERROR - KYC verification failed: Incorrect Full Name.
+2025-02-14 09:11:36,675 - INFO - KYC process initiated from GUI.
+2025-02-14 09:11:38,904 - ERROR - KYC verification failed: Incorrect DOB.
+2025-02-14 09:11:42,389 - INFO - KYC process initiated from GUI.
+2025-02-14 09:11:42,389 - INFO - Generated OTP: 609397
+2025-02-14 09:13:06,725 - INFO - OTP verified successfully.
+2025-02-14 09:14:01,541 - INFO - MFA verified successfully.
+2025-02-14 09:14:01,541 - INFO - Simulated compliance check passed.
+2025-02-14 09:14:01,578 - INFO - Sensitive KYC data encrypted.
+2025-02-14 09:14:01,579 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-14 09:14:02,806 - INFO - Real Banking API call successful with status code: 200
+2025-02-14 09:14:02,806 - INFO - Block 1 added with hash: 86ff664bf9b3b66044731deac8391e8f9b5b49cabfbdfec84e2106441a17062f
+2025-02-14 09:14:03,074 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-14 09:14:03,074 - INFO - Push Notification Sent: KYC verified for 660760622001
+2025-02-14 09:14:58,555 - INFO - KYC process completed successfully.
+2025-02-14 09:15:20,300 - INFO - KYC process initiated from GUI.
+2025-02-14 09:15:20,300 - INFO - Generated OTP: 181936
+2025-02-14 09:15:24,394 - ERROR - OTP verification failed.
+2025-02-14 09:27:07,656 - INFO - KYC process initiated from GUI.
+2025-02-14 09:27:07,669 - INFO - Generated OTP: 130976
+2025-02-14 09:27:41,029 - INFO - KYC process initiated from GUI.
+2025-02-14 09:27:41,029 - INFO - Generated OTP: 212648
+2025-02-14 09:27:57,358 - INFO - OTP verified successfully.
+2025-02-14 09:28:02,547 - INFO - MFA verified successfully.
+2025-02-14 09:28:02,547 - INFO - Simulated compliance check passed.
+2025-02-14 09:28:02,571 - INFO - Sensitive KYC data encrypted.
+2025-02-14 09:28:02,571 - INFO - Data is formatted for interoperability with existing banking systems.
+2025-02-14 09:28:03,765 - INFO - Real Banking API call successful with status code: 200
+2025-02-14 09:28:03,779 - INFO - Block 1 added with hash: 29ad2a770f98649072e751f7450267954d5a7a919bd167e01d3316945a6bd350
+2025-02-14 09:28:03,833 - INFO - QR code generated and saved as blockchain_kyc_qrcode.png
+2025-02-14 09:28:03,833 - INFO - Push Notification Sent: KYC verified for 359218255353
+2025-02-14 09:28:05,450 - INFO - KYC process completed successfully.
+2025-02-14 09:40:12,073 - ERROR - OTP verification failed.
